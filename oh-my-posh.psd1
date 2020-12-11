@@ -21,10 +21,10 @@ GUID = '7d7c4a78-e2fe-4e5f-9510-34ac893e4562'
 CompanyName = 'Unknown'
 
 # Author of this module
-Author = 'Jan De Dobbeleer'
+# Author =
 
 # Copyright statement for this module
-Copyright = '(c) 2018 Jan De Dobbeleer. All rights reserved.'
+# Copyright = 
 
 # Description of the functionality provided by this module
 Description = 'Theming capabilities for the PowerShell prompt in ConEmu'

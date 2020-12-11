@@ -3,14 +3,9 @@
 [![Build status][build-status-badge]][build-status]
 [![Travis build status][travis-build-status-badge]][travis-build-status]
 [![Coverage Status][coverage-status-badge]][coverage-status]
-[![Gitter][gitter-badge]][gitter]
 [![PS Gallery][psgallery-badge]][powershell-gallery]
 
 ## ❤ Support ❤
-
-[![Patreon][patreon-badge]][patreon]
-[![Liberapay][liberapay-badge]][liberapay]
-[![Ko-Fi][kofi-badge]][kofi]
 
 ## Introducing V3 and what it means for V2
 
@@ -355,4 +350,3 @@ if($env:LC_TERMINAL -eq "iTerm2") {
 [img-theme-zash]: img/zash.png
 [img-theme-emodipt]: img/emodipt.png
 [img-theme-operator]: img/operator.png
-# oh-my-posh
